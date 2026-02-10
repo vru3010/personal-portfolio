@@ -1,0 +1,12 @@
+# Git repository files to ignore
+node_modules/
+.DS_Store
+*.log
+dist/
+build/
+.env
+.env.local
+*.psd
+*.sketch
+.vscode/settings.json
+.idea/
